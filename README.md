@@ -1,2 +1,3 @@
 # rainbow-song
-I am learning Git again
+
+I am writing a song about Rainbow in C major
